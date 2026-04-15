@@ -6,7 +6,7 @@
 <h3 align="center">Turning Coffee into Code ☕💻 | Software Engineer</h3>
 
 
-<p align="center"> <img src="https://counter.kuber.studio/enukasathmina/dark/count.svg" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=enukasathmina&label=Profile%20views&color=0e75b6&style=flat" alt="enukasathmina" /> </p>
 
 # 💫 About Me:
 - 🔭 I’m currently working on AI/ML projects & software development
