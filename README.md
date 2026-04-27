@@ -42,8 +42,8 @@
 
 ---
 # 📊 GitHub Stats:
-![enukasathmina's Stats](https://github-readme-stats.vercel.app/api?username=enukasathmina&theme=algolia&show_icons=true&hide_border=false&count_private=true)<br/>
-![enukasathmina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enukasathmina&theme=algolia&hide_border=false)<br/>  
+![enukasathmina's Stats](https://github-readme-stats.vercel.app/api?username=enukasathmina&theme=algolia&show_icons=true&hide_border=false&count_private=true)</br>
+![enukasathmina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enukasathmina&theme=algolia&hide_border=false)</br>
 ![enukasathmina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enukasathmina&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 <hr style="border:2px solid #555;">
