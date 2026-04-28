@@ -43,23 +43,6 @@
 | **Development & Fun** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Riot Games](https://img.shields.io/badge/-Riot_Games-D32936?style=flat-square&logo=riot-games&logoColor=white) |
 
 
-<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
-
-<h2 align="center"> 
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
-  GitHub Status 
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
-</h2>
-
-<br>
-
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=enukasathmina" alt="GitHub Insights" />
-</p>
-
-<br><br>
-
-<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
 <!------------------------- Fun Zone ------------------------>
 
