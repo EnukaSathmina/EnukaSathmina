@@ -19,8 +19,7 @@
 
 - 🤝 I’m looking for help with Advanced ML & system design  
 
-- 👨‍💻 All of my projects are available at  
-  https://github.com/enukasathmina  
+- 👨‍💻 All of my projects are available at https://github.com/enukasathmina  
 
 - 💬 Ask me about AI, coding, and tech  
 
