@@ -8,25 +8,39 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enukasathmina&label=Profile%20views&color=0e75b6&style=flat" alt="enukasathmina" /> <img src="https://img.shields.io/github/followers/enukasathmina?label=Follow&style=social" /> </p>
 
-# 💫 About Me:
-- 🔭 I’m currently working on AI/ML projects & software development
+## 💫 About Me:
 
-- 🌱 I’m currently learning Machine Learning, Python, Java
+<table>
+<tr>
+<td width="65%">
 
-- 👯 I’m looking to collaborate on AI/ML & software engineering projects
+- 🔭 I’m currently working on AI/ML projects & software development  
 
-- 🤝 I’m looking for help with Advanced ML & system design
+- 🌱 I’m currently learning Machine Learning, Python, Java  
 
-- 👨‍💻 All of my projects are available at [https://github.com/enukasathmina](https://github.com/enukasathmina)
+- 👯 I’m looking to collaborate on AI/ML & software engineering projects  
 
-- 💬 Ask me about AI, coding, and tech
+- 🤝 I’m looking for help with Advanced ML & system design  
 
-- 📫 How to reach me enukasathmina@gmail.com
+- 👨‍💻 All of my projects are available at  
+  https://github.com/enukasathmina  
 
-- 📄 Know about my experiences Aspiring AI/ML & Software Engineer
+- 💬 Ask me about AI, coding, and tech  
 
-- ⚡ Fun fact Turning ideas into code 🤖🚀
+- 📫 How to reach me: enukasathmina@gmail.com  
 
+- 📄 Aspiring AI/ML & Software Engineer  
+
+- ⚡ Fun fact: Turning ideas into code 🤖🚀  
+
+</td>
+
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"/>
+</td>
+
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/958990198979588126) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enukasathmina@gmail.com) 
