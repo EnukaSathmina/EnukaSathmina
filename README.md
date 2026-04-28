@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Enuka Sathmina</h1>
@@ -10,9 +10,6 @@
 
 ## 💫 About Me:
 
-<table>
-<tr>
-<td width="65%">
 
 - 🔭 I’m currently working on AI/ML projects & software development  
 
@@ -33,14 +30,6 @@
 
 - ⚡ Fun fact: Turning ideas into code 🤖🚀  
 
-</td>
-
-<td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"/>
-</td>
-
-</tr>
-</table>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/958990198979588126) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enukasathmina@gmail.com) 
