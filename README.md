@@ -54,15 +54,34 @@
 | **Frontend/Mobile** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) |
 | **Development & Fun** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Riot Games](https://img.shields.io/badge/-Riot_Games-D32936?style=flat-square&logo=riot-games&logoColor=white) |
 
----
-# 📊 GitHub Stats:
-![enukasathmina's Stats](https://github-readme-stats.vercel.app/api?username=enukasathmina&theme=algolia&show_icons=true&hide_border=false&count_private=true)</br>
-![enukasathmina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enukasathmina&theme=algolia&hide_border=false)</br>
-![enukasathmina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enukasathmina&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
-<hr style="border:2px solid #555;">
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
+
+<h2 align="center"> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+  GitHub Status 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+</h2>
+
+<br>
+
 <p align="center">
-  ⭐ Thanks for visiting my profile ⭐
+  <img src="https://yourinsights.vercel.app/api/insight?username=enukasathmina" alt="GitHub Insights" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br><br>
+
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
+
+<!------------------------- Fun Zone ------------------------>
+
+<h2 align="center"> <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>  Fun Zone <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img> </h2> <br>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=FFFFFF&background=0D1B2A&center=true&vCenter=true&width=750&lines=%3E+I+love+mixing+creativity+with+logic+in+coding...!)
+
+
+<!------------------------- FOOTER ------------------------>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
